@@ -13,4 +13,4 @@ Unlock your Potential to be Software Engineers.
 
 Our mission is to help students to boost their potential fire in programming fields.
 
-For more information about us, you can visit our [website](https://www.devscale.id) or our [Instagram](https://instagram.com/devscaleid).
+For more information about us, you can visit our [website](https://devscale.id) or our [Instagram](https://instagram.com/devscaleid).
